@@ -1,0 +1,1 @@
+Rubik's Cube Solver using AI algorithms (BFS, DFS, IDS and A star)
